@@ -1,0 +1,24 @@
+{
+    "friendlymode": {
+      "enabled": false
+    },
+
+    "pvpmode": {
+        "enabled": true
+      },
+
+    "prismarineviewer": {
+      "enabled": true
+    },
+
+    "chatfeatures": {
+      "spammer": {
+        "enabled": true,
+        "delay": 900000,
+        "repeat": true,
+
+        "messages": [
+          "UR MSG"
+        ]
+      }}
+  }

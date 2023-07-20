@@ -1,0 +1,2 @@
+@hecho off
+node .
